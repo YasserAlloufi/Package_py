@@ -1,0 +1,8 @@
+setup.py
+PACKAGE.egg-info/PKG-INFO
+PACKAGE.egg-info/SOURCES.txt
+PACKAGE.egg-info/dependency_links.txt
+PACKAGE.egg-info/not-zip-safe
+PACKAGE.egg-info/top_level.txt
+Yasser/__init__.py
+Yasser/info.py
